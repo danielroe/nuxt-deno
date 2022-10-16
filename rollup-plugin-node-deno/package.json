@@ -1,0 +1,8 @@
+{
+  "name": "rollup-plugin-node-deno",
+  "dependencies": {
+    "@rollup/plugin-inject": "^5.0.1",
+    "magic-string": "^0.26.7",
+    "mlly": "^0.5.16"
+  }
+}
